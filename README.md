@@ -33,10 +33,23 @@ This tool combines multiple security utilities into one system for learning and 
 
 ---
 📸 Screenshots
+## 📸 Screenshots
 
+### 🔹 Tool Menu
 [capture_20260326154317306.bmp](https://github.com/user-attachments/files/26270873/capture_20260326154317306.bmp)
+<img src="link1" width="800"/>
+
+### 🔹 Port Scanner
 [capture_20260326154440173.bmp](https://github.com/user-attachments/files/26270874/capture_20260326154440173.bmp)
+<img src="link2" width="800"/>
+
+### 🔹 Password Checker
+<img src="link3" width="800"/>
 [capture_20260326154521981.bmp](https://github.com/user-attachments/files/26270876/capture_20260326154521981.bmp)
+
+### 🔹 Password Checker
+<img src="link3" width="800"/>
+[capture_20260326160539335.bmp](https://github.com/user-attachments/files/26271048/capture_20260326160539335.bmp)
 
 
 ## ⚙️ Installation
