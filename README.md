@@ -33,6 +33,9 @@ This tool combines multiple security utilities into one system for learning and 
 
 ---
 📸 Screenshots
+capture_20260326154317306.bmp
+capture_20260326154440173.bmp
+capture_20260326154521987.bmp
 
 
 
