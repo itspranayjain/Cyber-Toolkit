@@ -33,10 +33,10 @@ This tool combines multiple security utilities into one system for learning and 
 
 ---
 📸 Screenshots
-capture_20260326154317306.bmp
-capture_20260326154440173.bmp
-capture_20260326154521987.bmp
 
+[capture_20260326154317306.bmp](https://github.com/user-attachments/files/26270873/capture_20260326154317306.bmp)
+[capture_20260326154440173.bmp](https://github.com/user-attachments/files/26270874/capture_20260326154440173.bmp)
+[capture_20260326154521981.bmp](https://github.com/user-attachments/files/26270876/capture_20260326154521981.bmp)
 
 
 ## ⚙️ Installation
